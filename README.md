@@ -174,6 +174,13 @@ Commit registra as alterações feitas nos arquivos que foram adicionados na ár
 ´´´
 git commit -m "Base do projeto"
 ´´´
+Verificar em qual branch está.
+´´´
+git branch
+´´´
+Renomear a branch atual no GIT para main.
+
+git branch -M main
 
 Verificar em qual branch está.
 ´´´
@@ -192,5 +199,13 @@ git remote add origin https://github.com/celkecursos/tutorial-curso-django.git
 
 Enviar os commits locais para um repositório remoto.
 ´´´
+Enviar os commits locais para um repositório remoto.
+´´´
 git push -u origin main
+´´´
+
+## Como usar o gitHub.
+Inicializar  um novo repositorio GIT.
+´´´
+git init
 ´´´
